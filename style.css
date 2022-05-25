@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+}
+header {
+    text-align: center;
+}
+#section-one {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    margin-left: 36%;
+}
+input {
+    margin-top: 20px;
+}
+#imagem {
+    height: 150px;
+    width: 150px;
+}
+footer {
+    text-align: center;
+    font: italic 16px normal;
+}
